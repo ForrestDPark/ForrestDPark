@@ -28,6 +28,12 @@
   <img src="https://img.shields.io/badge/-Slack-753188?style=flat-plastic&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-2C272E?style=flat-plastic&logo=GitHub&logoColor=white"/>
 
+### :muscle: I’m currently Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact)](https://github.com/ForrestDPark/github-readme-stats)
+
+
+
 <!--
 **ForrestDPark/ForrestDPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
