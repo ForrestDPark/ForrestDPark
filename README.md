@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=😀%20Forrest%20Park's%20Space%20😀&fontColor=FEF1E6&fontSize=50)
 
 <br>
