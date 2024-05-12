@@ -24,10 +24,10 @@
    
   <p>
    ❤️❤️❤️❤️I love it!❤️❤️❤️<br><br>
-    Book reading 📚&nbsp;&nbsp; <br>
-    Fitness 🏋🏻‍♂️&nbsp;&nbsp;<br>
-    Meditation 🧘‍♂️&nbsp;&nbsp; <br>
-    Making Product with people 👨‍💻👨‍💻👨‍💻 🤼🏼‍♂️🤼🏼‍♂️🤼🏼‍♂️<br>
+    - Book reading 📚&nbsp;&nbsp; <br>
+    - Fitness 🏋🏻‍♂️&nbsp;&nbsp;<br>
+    - Meditation 🧘‍♂️&nbsp;&nbsp; <br>
+    - Making product with people 👨‍💻👨‍💻👨‍💻 🤼🏼‍♂️🤼🏼‍♂️🤼🏼‍♂️<br>
   </p>
 - 🌱 I’m currently learning ...
 <p align='center'>
