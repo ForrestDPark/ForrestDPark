@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/MySQl+MVC-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;<!--MVC -->
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;<!--Spring -->
 <img src="https://img.shields.io/badge/JavaScript-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;<!--Java script -->
-<img src="https://img.shields.io/badge/R-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--R -->
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">&nbsp;&nbsp;<!--R -->
 <img src="https://img.shields.io/badge/Dart-02569B?style=flat-square&logo=flutter&logoColor=white">&nbsp;&nbsp;<!--Dart->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;&nbsp;<!--Flutter -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--Swift -->
