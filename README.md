@@ -10,7 +10,10 @@
    
    [![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/ForrestDPark/github-readme-stats)
    
-
+  <p>
+    What I like <br><br>
+    📚&nbsp;&nbsp;
+  </p>
 - 🔭 I’m currently working on ...
 
 - 
@@ -32,7 +35,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact)](https://github.com/ForrestDPark/github-readme-stats)
 
+ <h4>✏️ Studying</h4>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;
 
+    
+  <br>
+  <hr/>
+
+
+
+  <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact&theme=gruvbox)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&show_icons=true&theme=gruvbox)
+
+</div>
+  
 
 <!--
 **ForrestDPark/ForrestDPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
