@@ -28,11 +28,11 @@
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=white">&nbsp;&nbsp;<!--Swift UIKit -->
 <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--SwiftUI -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">&nbsp;&nbsp;<!--AWS -->
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;<!--Python-->
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;&nbsp;<!--Python-->
 <img src="https://img.shields.io/badge/Mojo-EB844E?style=flat-square&logo=FireShip&logoColor=white">&nbsp;&nbsp;<!--Mojo -->
 <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">&nbsp;&nbsp;<!--Julia-->
-<img src="https://img.shields.io/badge/Rust-#000000?style=flat-square&logo=Rust&logoColor=white">&nbsp;&nbsp;<!--Rust -->
-<img src="https://img.shields.io/badge/SQlite-#003B57?style=flat-square&logo=SQlite&logoColor=white">&nbsp;&nbsp;<!--NoSql -->
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">&nbsp;&nbsp;<!--Rust -->
+<img src="https://img.shields.io/badge/SQlite-003B57?style=flat-square&logo=SQlite&logoColor=white">&nbsp;&nbsp;<!--NoSql -->
     
   <br>
   <hr/>
