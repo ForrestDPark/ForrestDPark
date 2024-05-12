@@ -45,12 +45,6 @@
   <br>
   <hr/>
 
-
-
-  <!-- 1.가장 많이 사용하는 언어 --><!-- 2.Github stats -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact&theme=gruvbox)&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&show_icons=true&theme=gruvbox)
-
-</div>
   
 
 <!--
