@@ -5,10 +5,10 @@
 <div align="center">
    <p> Hi there !! I'm  AI software engineer and Mobile App developer. </p><br>
    </div>
-   <p> 1. Native language is Swift and familiar with java, Dart, Python, R, . </p><br>
-   <p> 2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter). </p><br>
-   <p> 3. Currently interst in Mojo, Julia, Rust. </p><br>
-   <p> 4. Study on Restful api , Amazone web service, mySQL. </p><br>
+   <p> 1. Native language is Swift and familiar with java, Dart, Python, R, . <br>
+    2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter). <br>
+    3. Currently interst in Mojo, Julia, Rust. <br>
+    4. Study on Restful api , Amazone web service, mySQL. </p><br>
 
 
 
