@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/AWS-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--AWS -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;<!--Python-->
 <img src="https://img.shields.io/badge/Mojo-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--Mojo -->
-<img src="https://img.shields.io/badge/Julia-F05138?style=flat-square&logo=Julia&logoColor=9558B2">&nbsp;&nbsp;<!--Julia-->
+<img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">&nbsp;&nbsp;<!--Julia-->
 <img src="https://img.shields.io/badge/Rust-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--Rust -->
 <img src="https://img.shields.io/badge/NoSQL-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--NoSql -->
     
