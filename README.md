@@ -15,7 +15,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForrestDPark&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 
-   <br>&nbsp;&nbsp; 박동근  (Forrest)<br>
+<div align="center">
    
    [![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/ForrestDPark/github-readme-stats)
    
@@ -52,6 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact)](https://github.com/ForrestDPark/github-readme-stats)
 
+</div>
 <!--
 **ForrestDPark/ForrestDPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
