@@ -17,9 +17,8 @@
   </p>
 - 🌱 I’m currently learning ...
 <p align='left'>
-  <img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp; <!--Java -->
   <img src="https://img.shields.io/badge/-MVC-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;
