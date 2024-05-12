@@ -1,17 +1,17 @@
 
-<div align="center">
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=🌲%20Forrest%20Park's%20Space%20🌿&fontColor=FEF1E6&fontSize=50)
-</div>
+
 
 <div align="center">
 
 <br>
    <p> Hi there !! I'm  AI software engineer and Mobile App developer. </p><br>
-   </div>
-   <p> 1. Native language is Swift and familiar with java, Dart, Python, R, . <br>
+    <p> 1. Native language is Swift and familiar with java, Dart, Python, R, . <br>
     2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter). <br>
     3. Currently interst in Mojo, Julia, Rust. <br>
     4. Study on Restful api , Amazone web service, mySQL. </p><br>
+   </div>
+  
 
 
 
