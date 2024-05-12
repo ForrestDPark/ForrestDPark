@@ -4,7 +4,7 @@
 <p> 1. native language is Swift and familiar with java, Dart, Python, R, . </p><br>
 <p> 2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter), </p><br>
 <p> 3. Currently interst in Mojo, Julia, Rust </p><br>
-<p> 4. Restful api , Amazone web service, </p><br>
+<p> 4. Study on Restful api , Amazone web service, mySQL </p><br>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForrestDPark&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
