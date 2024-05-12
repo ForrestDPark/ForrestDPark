@@ -5,9 +5,9 @@
 <div align="center">
 
 <br>
-   <p > Hi there !! I'm  AI software engineer and Mobile App developer. </p><br>
+   <p > Hi there !! I'm  AI software engineer and mobile app developer. </p><br>
     <p align='left'> 
-    1.Language : Swift(native) and familiar with java, Dart, Python, R, . <br>
+    1. Language : Swift(native) and familiar with java, Dart, Python, R, . <br>
     2. Contributed Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter). <br>
     3. Currently interst : Mojo, Julia, Rust. <br>
     4. Studying :  Restful api , Amazone web service, mySQL. </p><br>
