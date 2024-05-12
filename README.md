@@ -1,5 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=🌲%20Forrest%20Park's%20Space%20🌿&fontColor=FEF1E6&fontSize=50)
+  <p>Hi I'm Forrest, AI software engineer and Mobile App developer </p>
 
 <br>
 
@@ -12,7 +13,7 @@
    
   <p>
     What I like <br><br>
-    📚&nbsp;&nbsp;
+    📚&nbsp;&nbsp;📚&nbsp;&nbsp;🧘‍♂️
   </p>
 - 🔭 I’m currently working on ...
 
