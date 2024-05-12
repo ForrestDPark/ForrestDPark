@@ -51,8 +51,6 @@
   <br>
   <hr/>
 
-### :muscle: currently Top Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact)](https://github.com/ForrestDPark/github-readme-stats)
 
 </div>
