@@ -12,8 +12,8 @@
    [![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/ForrestDPark/github-readme-stats)
    
   <p>
-    What I like <br><br>
-    📚&nbsp;&nbsp;📚&nbsp;&nbsp;🧘‍♂️
+   ❤️❤️❤️❤️I love ❤️❤️❤️<br><br>
+    Book reading 📚&nbsp;&nbsp; Fitness 🏋🏻‍♂️&nbsp;&nbsp; Meditation 🧘‍♂️&nbsp;&nbsp; Make Product with people 👨‍💻👨‍💻👨‍💻
   </p>
 - 🌱 I’m currently learning ...
 <p align='left'>
