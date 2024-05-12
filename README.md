@@ -14,16 +14,12 @@
    </div>
   
 
-
-
-
-
 <div align="center">
    
    [![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ForrestDPark&hide=stars,contribs&count_private=true&show_icons=true&theme=merko)](https://github.com/ForrestDPark/github-readme-stats)
    
   <p>
-   ❤️❤️❤️❤️I love it!❤️❤️❤️<br><br>
+   ❤️❤️❤️❤I love it!❤️❤️❤️<br><br>
     Book reading 📚&nbsp;&nbsp; <br>
     Fitness 🏋🏻‍♂️&nbsp;&nbsp;<br>
     Meditation 🧘‍♂️&nbsp;&nbsp; <br>
