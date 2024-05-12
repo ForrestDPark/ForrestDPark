@@ -21,17 +21,17 @@
 <img src="https://img.shields.io/badge/MySQl-4479A1?style=flat-plastic&logo=mysql&logoColor=white"/>&nbsp;&nbsp;<!--MVC -->
 <img src="https://img.shields.io/badge/Spring%20Boot+MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;<!--Spring -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">&nbsp;&nbsp;<!--Java script -->
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">&nbsp;&nbsp;<!--R -->
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">&nbsp;&nbsp;<!--R --> <br>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">&nbsp;&nbsp;<!--Dart->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>&nbsp;&nbsp;<!--Flutter -->
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--Swift -->
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=white">&nbsp;&nbsp;<!--Swift UIKit -->
-<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--SwiftUI -->
+<img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=white">&nbsp;&nbsp;<!--SwiftUI --><br>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">&nbsp;&nbsp;<!--AWS -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;&nbsp;<!--Python-->
 <img src="https://img.shields.io/badge/Mojo-EB844E?style=flat-square&logo=FireShip&logoColor=white">&nbsp;&nbsp;<!--Mojo -->
 <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white">&nbsp;&nbsp;<!--Julia-->
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">&nbsp;&nbsp;<!--Rust -->
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&logoColor=white">&nbsp;&nbsp;<!--Rust --><br>
 <img src="https://img.shields.io/badge/SQlite-003B57?style=flat-square&logo=SQlite&logoColor=white">&nbsp;&nbsp;<!--NoSql -->
     
   <br>
