@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning ...
 <p align='left'>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">&nbsp;&nbsp; <!--Java -->
-<img src="https://img.shields.io/badge/MySQl+MVC-green?style=flat-plastic&logo=mysql&logoColor=white"/>&nbsp;&nbsp;<!--MVC -->
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;<!--Spring -->
+<img src="https://img.shields.io/badge/MySQl-green?style=flat-plastic&logo=mysql&logoColor=white"/>&nbsp;&nbsp;<!--MVC -->
+<img src="https://img.shields.io/badge/Spring%20Boot+MVC-6DB33F?style=flat-square&logo=Spring&logoColor=white">&nbsp;&nbsp;<!--Spring -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">&nbsp;&nbsp;<!--Java script -->
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">&nbsp;&nbsp;<!--R -->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white">&nbsp;&nbsp;<!--Dart->
