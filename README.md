@@ -49,7 +49,7 @@
   <br>
   <hr/>
 
-### :muscle: I’m currently Top Languages
+### :muscle: currently Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ForrestDPark&layout=compact)](https://github.com/ForrestDPark/github-readme-stats)
 
