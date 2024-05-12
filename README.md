@@ -1,10 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=🌲%20Forrest%20Park's%20Space%20🌿&fontColor=FEF1E6&fontSize=50)
-<p> Hi there !! I'm  AI software engineer and Mobile App developer. </p>
-<p> 1. native language is Swift and familiar with java, Dart, Python, R, . </p>
-<p> 2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter), </p>
-<p> Currently interst in Mojo, Julia, Rust </p>
-<p> Restful api , Amazone web service, </p>
+<p> Hi there !! I'm  AI software engineer and Mobile App developer. </p><br>
+<p> 1. native language is Swift and familiar with java, Dart, Python, R, . </p><br>
+<p> 2. Contribute in Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter), </p><br>
+<p> 3. Currently interst in Mojo, Julia, Rust </p><br>
+<p> 4. Restful api , Amazone web service, </p><br>
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForrestDPark&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -16,10 +16,10 @@
    
   <p>
    ❤️❤️❤️❤️I love it!❤️❤️❤️<br><br>
-    Book reading 📚&nbsp;&nbsp; 
-    Fitness 🏋🏻‍♂️&nbsp;&nbsp;
-    Meditation 🧘‍♂️&nbsp;&nbsp; 
-    Making Product with people 👨‍💻👨‍💻👨‍💻 🤼🏼‍♂️🤼🏼‍♂️🤼🏼‍♂️
+    Book reading 📚&nbsp;&nbsp; <br>
+    Fitness 🏋🏻‍♂️&nbsp;&nbsp;<br>
+    Meditation 🧘‍♂️&nbsp;&nbsp; <br>
+    Making Product with people 👨‍💻👨‍💻👨‍💻 🤼🏼‍♂️🤼🏼‍♂️🤼🏼‍♂️<br>
   </p>
 - 🌱 I’m currently learning ...
 <p align='left'>
