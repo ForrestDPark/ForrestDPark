@@ -3,7 +3,7 @@
 
 
 <div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FForrestDPark&count_bg=%2379C83D&title_bg=%23555555&icon=codeigniter.svg&icon_color=%23F70000&title=Hello+World&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <br>
    <p> Hi there !! I'm  AI software engineer and Mobile App developer. </p><br>
    </div>
