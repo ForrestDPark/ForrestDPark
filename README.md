@@ -8,9 +8,9 @@
    <p > Hi there !! I'm  AI software engineer and mobile app developer. </p><br>
     <p align='left'> 
     1. Language : Swift(native) and familiar with java, Dart, Python, R, . <br>
-    2. Contributed Projects : AppleKing(Spring+MVC Web site) , HappySeat(Java Swing) , RecoFarm(R+Flutter). <br>
-    3. Currently interst : Mojo, Julia, Rust. <br>
-    4. Studying :  Restful api , Amazone web service, mySQL. </p><br>
+    2. Contributed Projects : HaruSizack(Python ML,Chatbot,NLP, Swift),RecoFarm(R+Flutter). AppleKing(Spring+MVC Web site) , HappySeat(Java Swing)  <br>
+    3. Currently interst languages: Mojo, Julia, Rust. <br>
+    4. Studying :  Prompt Engineering, NLP, XGboost and DecisioinTree customization, RESTful API , Amazone web service, mySQL. </p><br>
    </div>
   
 
