@@ -10,9 +10,13 @@
 
 <!--  </p><br> -->
 </div>
+
 # 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
+
 # 2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)<br>
+
 # 3. Contributed Projects : 
+
 - HaruSizack(Python ML,Chatbot,NLP, Swift)<br>
 - RecoFarm(R+Flutter)<br>
 - AppleKing(Spring+MVC Web site) <br>
