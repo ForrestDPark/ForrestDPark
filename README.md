@@ -5,7 +5,7 @@
 <div align="center">
 
 <br>
-   <p> Hi there !! I'm  AI software engineer and web/app full stack developer.</p><br>
+   <p> Hi!! I'm  AI software engineer and web/app full stack developer.</p><br>
 <!-- <p align='left'>  -->
 
 <!--  </p><br> -->
