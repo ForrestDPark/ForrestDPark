@@ -2,14 +2,14 @@
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=🌲%20Forrest%20Park's%20Space%20🌿&fontColor=FEF1E6&fontSize=50)
 
 
-<div align="center">
+**<div align="center">
 
 <br>
-   <p > # **Hi there !! I'm  AI software engineer and mobile app developer.** </p><br>
+   <p> Hi there !! I'm  AI software engineer and mobile app developer.</p><br>
 <!-- <p align='left'>  -->
 
 <!--  </p><br> -->
-</div>
+</div>**
 
 # 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
 
