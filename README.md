@@ -7,14 +7,14 @@
 <br>
    <p > Hi there !! I'm  AI software engineer and mobile app developer. </p><br>
     <p align='left'> 
-    1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
-    2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)
-    3. Contributed Projects : 
+    # 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
+    # 2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)<br>
+    # 3. Contributed Projects : 
       - HaruSizack(Python ML,Chatbot,NLP, Swift)<br>
       - RecoFarm(R+Flutter)<br>
       - AppleKing(Spring+MVC Web site) <br>
       - HappySeat(Java Swing)  <br>
-    4. Studying :  
+    # 4. Studying :  
        - LLM model Prompt Engineering for Chat bot <br>
        - Natural Language Process(Tensorflow, Pytorch) <br>
        - OCR( image processing with tensorflow)<br>
