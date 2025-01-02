@@ -7,6 +7,9 @@
 <br>
    <p > Hi there !! I'm  AI software engineer and mobile app developer. </p><br>
 <!-- <p align='left'>  -->
+
+<!--  </p><br> -->
+</div>
 # 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
 # 2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)<br>
 # 3. Contributed Projects : 
@@ -21,9 +24,7 @@
  - Machine learnaing (data science, feature engineering, EDA)<br>
  - CI/CD( AWS, NaverCloud, Azure, GCP)<br>
  - MySQL(RDS), Mongo DB(NoSQL)
-<!--  </p><br> -->
-</div>
-  
+
 
 <div align="center">
    
