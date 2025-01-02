@@ -2,32 +2,33 @@
 ![header](https://capsule-render.vercel.app/api?animation=fadeIn&text=🌲%20Forrest%20Park's%20Space%20🌿&fontColor=FEF1E6&fontSize=50)
 
 
-**<div align="center">
+<div align="center">
 
 <br>
    <p> Hi there !! I'm  AI software engineer and mobile app developer.</p><br>
 <!-- <p align='left'>  -->
 
 <!--  </p><br> -->
-</div>**
+</div>
 
-# 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
+## 1. Language : Python(native), Swift, java, Dart, JavaScript, R. <br>
 
-# 2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)<br>
+## 2. Frameworks : Flutter, SpringBoot, SwiftUI, Storyboard, Node.js(express,Nest.js)<br>
 
-# 3. Contributed Projects : 
+## 3. Contributed Projects : 
 
 - HaruSizack(Python ML,Chatbot,NLP, Swift)<br>
 - RecoFarm(R+Flutter)<br>
 - AppleKing(Spring+MVC Web site) <br>
 - HappySeat(Java Swing)  <br>
-# 4. Studying :  
- - LLM model Prompt Engineering for Chat bot <br>
- - Natural Language Process(Tensorflow, Pytorch) <br>
- - OCR( image processing with tensorflow)<br>
- - Machine learnaing (data science, feature engineering, EDA)<br>
- - CI/CD( AWS, NaverCloud, Azure, GCP)<br>
- - MySQL(RDS), Mongo DB(NoSQL)
+
+## 4. Studying :  
+- LLM model Prompt Engineering for Chat bot <br>
+- Natural Language Process(Tensorflow, Pytorch) <br>
+- OCR( image processing with tensorflow)<br>
+- Machine learnaing (data science, feature engineering, EDA)<br>
+- CI/CD( AWS, NaverCloud, Azure, GCP)<br>
+- MySQL(RDS), Mongo DB(NoSQL)
 
 
 <div align="center">
